@@ -423,7 +423,10 @@ a:link {
 .section-header
 {
     text-align: var(--section-header-align);
-    padding:var(--section-header-padding)
+    padding:var(--section-header-padding);
+}
+.section-body{
+ padding:var(--section-body-padding);
 }
 .section-footer{
     padding:var(--section-footer-padding);
